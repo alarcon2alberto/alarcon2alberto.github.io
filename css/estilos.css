@@ -584,16 +584,31 @@ h2.rallado>span {
     background-color: #EB9781;
 }
 
-
 .news ::placeholder {
     font-size: 9px;
 }
+
+.news form div {
+    display:flex;
+    justify-content: center;
+
+}
+
+
+input.nl_email{
+    padding-left: 5px;
+    height: 25px;
+    margin:0;
+    border:solid 1px #79BAAB;
+    border-radius: 2px;
+}
+
+
 
 #nl_email {
     padding-left: 5px;
     height: 25px;
 }
-
 
 
 /* ------------- footer ------------------------*/
