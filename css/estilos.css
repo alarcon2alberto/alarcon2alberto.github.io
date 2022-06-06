@@ -164,12 +164,8 @@ nav li.active a {
         font-weight: 900;
     }
 
-    .labelWhate  h1{
-        font-family: 'Montserrat', sans-serif;
-    }
 
     .inputWhate{
-        font-family: 'Montserrat', sans-serif;
         font-size: x-small;
         padding: 5px 0 5px 20px;
         background-image: url('../img/icons/search.svg');
@@ -196,7 +192,6 @@ nav li.active a {
         height: auto;
     }
     .lastestmEl figcaption {
-        font-family: 'Montserrat', sans-serif;
         text-transform: uppercase;
         font-size: 12px;
         font-weight:bold;
@@ -279,7 +274,6 @@ h2.rallado>span {
         width: 60%;
         background-color: white;
         text-align: center;
-        font-family: 'Montserrat', sans-serif;
         font-size: x-small;
         padding: 20px;
         position: relative;
