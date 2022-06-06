@@ -381,6 +381,10 @@ h2.rallado>span {
         .pick > div {
             width: 100%;
         }
+        .shopt p {
+            padding-left: 10px;
+            padding-right: 10px;
+        }
     }
 /* --- Fin de PICK--------------------------------------------*/
 /*-------- fin de contenido de index -------------------*/
@@ -732,7 +736,7 @@ footer {
     }
 
     .nombre p {
-        width: fit-content;
+        width: 100%;
     }
     .nombreA {
         float: none;
