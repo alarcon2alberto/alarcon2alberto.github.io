@@ -605,6 +605,7 @@ h2.rallado>span {
     color: white;
     margin-left: 5px;
     border:0px;
+    height: 25px;
 }
 
 .news ::placeholder {
@@ -613,6 +614,7 @@ h2.rallado>span {
 
 #nl_email {
     padding-left: 5px;
+    height: 25px;
 }
 
 
@@ -646,7 +648,7 @@ footer {
 
 .nombre p {
     font-size: inherit;
-    width: 200px;
+    width: 250px;
     padding-bottom: 5px;
 }
 
