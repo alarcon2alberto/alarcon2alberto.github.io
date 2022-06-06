@@ -14,33 +14,8 @@
     text-decoration:none;
  }
 
- /*--- Boton subscribe de index.html -------------------*/
 
-.subscribe {
-    border: 0;
-    line-height: 2.5;
-    padding: 0 20px;
-    font-size: 1rem;
-    text-align: center;
-    color: #fff;
-    border-radius: 1px;
-    background-color: rgba(220, 0, 0, 1);
-}
 
-.subscribe:hover {
-    background-color: rgba(255, 0, 0, 1);
-}
-
-.subscribe:active {
-    box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
-    inset 2px 2px 3px rgba(0, 0, 0, .6);
-}
-
-body {
-    margin: 0px;
-    padding: 0px;
-    background-color: #FFF7E8; /*añadido color de fondo*/
-}
 
 
  /*---------- Header ------------------------- */
@@ -575,12 +550,12 @@ h2.rallado>span {
     background-size: 15%;
 }
 
-
 .news form {
     margin: 0 auto 0 auto;
     width: 400px;
     text-align: center;
 }
+
 
 .news label {
     font-size: 1.5em;
@@ -593,14 +568,22 @@ h2.rallado>span {
     padding: 10px 0 10px 0;
 }
 
-.news button {
-    background-color: #DC4A23;
+.subscribe {
+    line-height: 2.5;
+    padding: 0 20px;
+    text-align: center;
     font-size: 9px;
     color: white;
     margin-left: 5px;
-    border:0px;
+    border:0;
     height: 25px;
+    background-color:#DC4A23;
 }
+
+.subscribe:hover {
+    background-color: #EB9781;
+}
+
 
 .news ::placeholder {
     font-size: 9px;
